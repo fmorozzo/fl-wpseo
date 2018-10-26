@@ -1,0 +1,22 @@
+/*
+Theme Name: Facility Lockers
+Theme URI: https://facilitylockers.com
+Author: Federico Morozzo
+Author URI: https://fmorozzo.com/
+Description: Theme using Twitter Bootstrap 4.
+Version: 0.1
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: one-column, two-columns, right-sidebar, custom-header, custom-menu, editor-style, featured-images, sticky-post, translation-ready
+Text Domain: devdmbootstrap4
+GitHub Theme URI: https://github.com/dannymachal/devdmbootstrap4
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+The default Bootstrap 4 CSS and JS files are enqueued inside the functions.php file with the handles devdmbootstrap4-css and devdmbootstrap4-js
+*/
+
+.gallery-caption {}
+
+.bypostauthor {}
